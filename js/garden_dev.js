@@ -154,11 +154,11 @@
 	            max: 1
 	        },
 	        bloomRadius: {
-	            min: 8,
-	            max: 10
+	            min: 4,
+	            max: 7
 	        },
 	        density: 10,
-	        growSpeed: 1000 / 60,
+	        growSpeed: 1500 / 60,
 	        color: {
 				rmin: 128,
 				rmax: 255,
