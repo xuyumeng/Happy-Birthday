@@ -12,7 +12,7 @@
 2. 左边的Java代码有语法错误……英文注释也有……请无视
 3. 时间仓促js代码没有压缩，请自行处理
 
-##本项目派生(fork)于[hackerzhou/Love](https://github.com/hackerzhou/Love) 一下是原repo的readme
+##本项目派生(fork)于[hackerzhou/Love](https://github.com/hackerzhou/Love)以下是原repo的readme
 
 这是一个很小的静态页面，用来庆祝我跟我mm相恋一周年纪念日。同时也为了以程序员的视角来表达浪漫，改变大家对于程序员先入为主的形象，程序员改变世界~
 时间仓促，有很多没有考虑到的地方，大家可以自由的进行二次开发。
